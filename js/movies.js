@@ -1,6 +1,5 @@
 ﻿function getBooks(){
-
-	$('li').remove();
+	// $('li').remove(); // 获取每一个li节点并删除
 	
 	var searchWord = $('.field').val();
 	var baseurl='http://api.themoviedb.org/3/search/movie?api_key=753d90e25748af01258588027b1fefb7&language=en-US&query="';
