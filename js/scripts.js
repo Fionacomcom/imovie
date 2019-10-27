@@ -26,7 +26,3 @@ $('.info').click(function(){
 	console.log("boo");
 	$('.infomodalDialog').slideDown();
 });
-
-// $('.infomodalDialog').click(function(){
-// 	$(this).slideUp();
-// }); 黑幕不关
