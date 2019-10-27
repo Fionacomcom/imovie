@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <item>
+        <id>163685</id>
+        <cityName>上海</cityName>
+        <cinemaName>大地影院（嘉定方舟店）</cinemaName>
+        <address>嘉定区澄浏中路3172号方舟广场4楼 </address>
+        <telephone>021-69910203</telephone>
+        <latitude>31.39374</latitude>
+        <longitude>121.2844</longitude>
+        <trafficRoutes>
+        </trafficRoutes>
+        <distance>1883</distance>
+    </item>
+    <item>
+        <id>126</id>
+        <cityName>上海</cityName>
+        <cinemaName>嘉定影剧院</cinemaName>
+        <address>嘉定区城中路149号</address>
+        <telephone>021-59531306</telephone>
+        <latitude>31.38895</latitude>
+        <longitude>121.254</longitude>
+        <trafficRoutes>嘉定1;2;3路至城中路张马路往北100米</trafficRoutes>
+        <distance>2020</distance>
+    </item>
+    <item>
+        <id>534711</id>
+        <cityName>上海</cityName>
+        <cinemaName>嘉定宝龙横店电影城</cinemaName>
+        <address>嘉定区阿克苏路1099号4层405商铺</address>
+        <telephone>021-67635900</telephone>
+        <latitude>31.35472</latitude>
+        <longitude>121.2663</longitude>
+        <trafficRoutes>乘坐公车(或地铁)    11号线     至   白银路站或嘉定新城     站到达</trafficRoutes>
+        <distance>2894</distance>
+    </item>
+</root>
